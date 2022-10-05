@@ -1,0 +1,9 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/ToyRobot/bin/Debug/netcoreapp3.1
+/.vs/ToyRobot/v16
+/ToyRobot/obj
+/ToyRobot.UnitTest/bin/Debug/netcoreapp3.1
+/ToyRobot.UnitTest/obj
